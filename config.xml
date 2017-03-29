@@ -45,4 +45,8 @@
   <preference name="monaca:AndroidIsPackageNameSeparate" value="false"/>
   <preference name="monaca:targetFamilyiPhone" value="1"/>
   <preference name="monaca:targetFamilyiPad" value="1"/>
+  <preference name="phonegap-version" value="cli-6.3.0" />
+	<preference name="fullscreen" value="true" />
+	
+	<preference name="android-minSdkVersion" value="14" />
 </widget>
